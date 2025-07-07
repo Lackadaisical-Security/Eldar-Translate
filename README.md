@@ -206,6 +206,13 @@ This project is not affiliated with Middle-earth Enterprises or the Tolkien Esta
 - **Icons**: Lucide React
 - **Framework**: Tailwind CSS
 
+## Documentation
+
+- **[API Documentation](API.md)** - Complete API reference for developers
+- **[Troubleshooting Guide](TROUBLESHOOTING.md)** - Common issues and solutions
+- **[Data Structure Documentation](DATA_STRUCTURE.md)** - Vocabulary file formats and structures
+- **[Third-Party Licenses](THIRD_PARTY_LICENSES.md)** - Complete licensing information
+
 ## Contributing
 
 1. Fork the repository
@@ -221,6 +228,8 @@ Please include:
 - Steps to reproduce
 - Expected vs actual translation results
 - Console error messages (if any)
+
+For common issues, check the [Troubleshooting Guide](TROUBLESHOOTING.md) first.
 
 ## Roadmap
 
