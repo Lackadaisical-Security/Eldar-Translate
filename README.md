@@ -8,7 +8,7 @@ A comprehensive translator for Tolkien's Elvish languages, featuring dictionary-
 
 - **🎯 Tengwar Script Translator**: Complete implementation of J.R.R. Tolkien's Tengwar writing system with authentic fonts
 - **Real-time Auto-Translation**: Translates as you type with intelligent debouncing
-- **Massive Vocabulary Database**: Over **50,000+ vocabulary entries** from Tolkien's works, Eldamo, Ardalambion, Hiswelókë, Quettaparma, and other scholarly sources
+- **Massive Vocabulary Database**: Over **10,000-15,000+ vocabulary entries** from Tolkien's works, Eldamo, Ardalambion, Hiswelókë, Quettaparma, and other scholarly sources
 - **Comprehensive Linguistic Coverage**: 90,000+ total lines of linguistic data across multiple authoritative sources
 - **Bidirectional Translation**: English ↔ Quenya, English ↔ Sindarin, and English ↔ Grey Company (RPG)
 - **Advanced Tengwar System**: 5 authentic Tengwar fonts, 100+ letters/symbols, complete mode-specific rules
