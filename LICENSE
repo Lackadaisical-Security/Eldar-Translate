@@ -1,0 +1,130 @@
+MIT License
+
+Copyright (c) 2024 Lackadaisical Security
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+================================================================================
+
+THIRD-PARTY CONTENT AND ATTRIBUTION
+
+This project incorporates linguistic data from multiple scholarly sources:
+
+1. ELDAMO (Elvish Data Model)
+   - Source: Paul Strack's comprehensive Tolkien linguistic database
+   - Website: https://eldamo.org
+   - License: Creative Commons Attribution (CC-BY)
+   - Usage: Educational and research purposes
+   - Content: Reconstructed Elvish vocabulary and grammar rules
+
+2. HISWELÓKË'S SINDARIN & NOLDORIN DICTIONARY
+   - Source: Community-maintained Sindarin linguistic resource
+   - Type: Scholarly community compilation
+   - Usage: Educational reference for Sindarin language study
+   - Content: Sindarin vocabulary, mutations, and dialectal variants
+
+3. ARDALAMBION - HELGE FAUSKANGER'S QUENYA WORDLISTS
+   - Source: Helge Fauskanger's linguistic analysis
+   - Website: https://folk.uib.no/hnohf/
+   - Type: Scholarly linguistic research
+   - Usage: Educational reference for Quenya language study
+   - Content: Quenya vocabulary, grammar, and etymological analysis
+
+4. GREY COMPANY ELVEN DICTIONARY
+   - Source: Community roleplay and gaming resource
+   - Type: Practical community development
+   - Usage: Gaming and creative writing reference
+   - Content: Practical vocabulary for roleplay contexts
+
+DISCLAIMER OF AFFILIATION
+
+This project is not affiliated with, endorsed by, or connected to:
+- The Tolkien Estate
+- Middle-earth Enterprises
+- Amazon Studios
+- Any official Tolkien properties or adaptations
+
+EDUCATIONAL USE STATEMENT
+
+This software is created for educational, research, and non-commercial purposes:
+- To study and preserve Tolkien's linguistic creations
+- To provide tools for language learning and academic research
+- To support the scholarly community studying constructed languages
+- To enable creative writing and artistic expression
+
+LINGUISTIC CONTENT NOTICE
+
+The Elvish languages (Quenya, Sindarin, etc.) were created by J.R.R. Tolkien.
+This project contains:
+- Scholarly reconstructions based on published materials
+- Community-developed extensions and interpretations  
+- Linguistic analysis and educational commentary
+- No direct copying of copyrighted narrative content
+
+FAIR USE JUSTIFICATION
+
+Use of linguistic elements is believed to constitute fair use under copyright law:
+- Transformative educational purpose
+- Scholarly analysis and commentary
+- Non-commercial academic application
+- Minimal use necessary for linguistic study
+- No market harm to original works
+
+DATA SOURCES ACKNOWLEDGMENT
+
+We gratefully acknowledge the scholarly work of:
+- Paul Strack (Eldamo project)
+- Helge Fauskanger (Ardalambion linguistics)
+- The Hiswelókë community contributors
+- The Grey Company language developers
+- The broader Tolkien linguistics community
+
+CONTENT MODIFICATION POLICY
+
+Users of this software may:
+- Use the linguistic data for educational purposes
+- Modify and extend the vocabulary for academic research
+- Create derivative tools for language learning
+- Contribute improvements and corrections
+
+ATTRIBUTION REQUIREMENTS
+
+When using this software or its data:
+- Credit the original linguistic sources as listed above
+- Include this license notice in redistributions
+- Acknowledge the educational and research nature of the content
+- Respect the scholarly tradition of Tolkien linguistics
+
+LIMITATION OF LIABILITY
+
+The linguistic content is provided for educational purposes only. Accuracy of
+translations, etymologies, and grammatical analyses cannot be guaranteed.
+Users should verify information against primary sources for academic work.
+
+COMMUNITY CONTRIBUTION
+
+This project supports the open scholarly study of constructed languages.
+Contributions, corrections, and improvements are welcomed under the same
+educational and non-commercial principles.
+
+================================================================================
+
+For questions about licensing or attribution, contact:
+Lackadaisical Security
+https://lackadaisical-security.com 
