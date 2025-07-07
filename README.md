@@ -2,7 +2,7 @@
 
 A comprehensive translator for Tolkien's Elvish languages, featuring dictionary-based translation between English, Quenya, Sindarin, and Grey Company (RPG) with real-time auto-translation, comprehensive vocabulary from multiple scholarly sources, and **complete Tengwar script support**.
 
-![Eldar Translate Interface](assets/preview.png)
+![Eldar Translate Interface](preview.png)
 
 ## Features
 
