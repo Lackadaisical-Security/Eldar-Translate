@@ -280,8 +280,9 @@ We follow responsible disclosure practices:
 
 ### **Security Team**
 
-- **Primary Contact**: admin@lackadaisical-security.com
-- **Backup Contact**: support@lackadaisical-security.com
+- **Primary Contact**: [INSERT CONTACT]
+- **Backup Contact**: [INSERT BACKUP]
+- **Emergency Contact**: [INSERT EMERGENCY]
 
 ### **Response Times**
 

@@ -5,11 +5,48 @@ All notable changes to the Eldar Translate project will be documented in this fi
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [3.0.0] - 2025-01-07 - The Semantic Revolution 🧠
+## [1.3.0] - 2025-07-19 - Updates
 
-### 🌟 **MAJOR SYSTEM REWRITE - COMPLETE SEMANTIC TRANSLATION ENGINE**
+### 🧠 **Enhanced Semantic Translation Engine**
+- **Fixed recursive vocabulary flattening** - Resolved nested structure issues causing translation failures
+- **Improved error handling** for complex vocabulary structures and malformed data
+- **Enhanced multi-source integration** with better priority weighting system
+- **Optimized performance** for large vocabulary datasets
+- **Better context-aware domain classification** with improved accuracy
 
-This version represents a **complete transformation** from a dictionary-based translator into a **production-grade semantic translation system** with advanced linguistic intelligence and maximum authenticity guarantees.
+### ✨ **Enhanced Tengwar Script System**
+- **Fixed ASCII character mapping issues** - Resolved font rendering problems across browsers
+- **Complete Tengwar font support** with multiple font families (Annatar, Feanor, etc.)
+- **Authentic script display** with proper character substitution and fallback systems
+- **Debug-tested rendering** ensuring accurate Tengwar output across all platforms
+- **Font management improvements** with better loading and error handling
+
+### 📚 **Vocabulary System Improvements**
+- **Recursive flattening algorithm** for seamless translation of nested vocabulary structures
+- **Enhanced source verification** with better authenticity ranking
+- **Improved data validation** preventing vocabulary loading errors
+- **Better error messages** for debugging vocabulary issues
+- **Unified source integration** across all vocabulary files
+
+### 🧪 **Testing & Quality Assurance**
+- **Enhanced test coverage** for recursive vocabulary processing
+- **Font rendering validation** across multiple Tengwar font families
+- **Integration testing** for vocabulary loading and processing
+- **Performance benchmarks** updated with new optimization metrics
+
+### 🔧 **Technical Improvements**
+- **Code cleanup** and improved documentation
+- **Better modularity** in translation engine components
+- **Enhanced debugging capabilities** for development workflow
+- **Collaborative AI enhancement** with systematic improvement methodology
+
+### 🐛 **Bug Fixes**
+- Fixed vocabulary loading errors with nested structures
+- Resolved Tengwar font rendering issues on certain browsers
+- Fixed translation failures with malformed vocabulary entries
+- Improved error handling for missing vocabulary sources
+
+## [1.2.0] - 2025-07-18 - Updates
 
 #### 🧠 **Semantic Translation Engine** (`js/semantic-translation-engine.js`)
 - **Brand new intelligent translation core** with multi-source integration
@@ -21,7 +58,7 @@ This version represents a **complete transformation** from a dictionary-based tr
 - **Morphology engine** for grammatical transformations
 - **Mutation engine** for Sindarin consonant mutations
 
-#### 📚 **MASSIVE VOCABULARY EXPANSION - 100,000+ ENTRIES**
+#### 📚 **Large Vocabulary with thousands of tolkien attested entries**
 
 ##### **New Translation Alphabets**
 - **`english-to-quenya-translation.json`** - 2,800 A-Z organized entries
@@ -45,7 +82,7 @@ This version represents a **complete transformation** from a dictionary-based tr
 - **Priority-based selection** within domains
 - **Cross-domain fallback** for comprehensive coverage
 
-##### **Enhanced Tolkien-Attested Vocabulary** (v2.0.0 → v2.0.0)
+##### **Enhanced Tolkien-Attested Vocabulary** (v1.1.0 → v1.2.0)
 - **Upgraded from 2,800 to 3,400 entries** (+600 authentic additions)
 - **Enhanced scholarly sources**: Vinyar Tengwar, Parma Eldalamberon
 - **Improved confidence levels** and source priority systems
@@ -166,7 +203,7 @@ CHANGELOG.md                            (This comprehensive update)
 - **2,600** English→Sindarin direct translations  
 - **5,000+** semantic domain mappings
 - **12** thematic categories for context awareness
-- **57,843** entries in largest single source (Quettaparma)
+- **7000+** Tolkien Attested Library
 
 #### **Performance Improvements**
 - **10-50x** faster repeated translations through caching
@@ -249,7 +286,14 @@ This represents **the most comprehensive Tolkien language translation system eve
 
 ---
 
-## [2.0.0] - 2025-07-07 - The Tengwar Update 🎯
+## [1.1.0] - 2025-07-11 - The Same-Moment Tengwar Addition 🎯
+
+### 🌟 **TENGWAR SYSTEM ADDED SAME MOMENT AS CORE SYSTEM**
+
+**ACTUAL Creation Timeline (from file timestamps):**
+- **July 18, 2025 4:29:41 PM**: `tengwar.html` created SAME MOMENT as everything else
+- **July 18, 2025 4:29:41 PM**: Tengwar alphabets and font system created SIMULTANEOUSLY
+- **Built in the same instant as the entire translation system**
 
 ### 🌟 Major Features Added
 
@@ -356,7 +400,7 @@ This update transforms Eldar Translate from a dictionary-based translator into a
 
 ---
 
-## [1.0.0] - Previous to 2025-07-07
+## [1.0.0] - 2025-07-11 - Initial Release
 
 ### Features
 - Dictionary-based English ↔ Elvish translation
